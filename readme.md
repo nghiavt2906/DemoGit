@@ -1,2 +1,2 @@
-#Demo app for git remote repository
+#Demo
 Just for education
